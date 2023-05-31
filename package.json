@@ -1,0 +1,36 @@
+{
+  "name": "coffe-delivery",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.1.0",
+    "bootbox": "^6.0.0",
+    "history": "^5.3.0",
+    "phosphor-react": "^1.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-router-dom": "^6.11.0",
+    "styled-components": "^5.3.8",
+    "sweetalert2": "^11.4.8",
+    "uuid": "^9.0.0",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@types/styled-components": "^5.1.26",
+    "@types/uuid": "^9.0.1",
+    "@vitejs/plugin-react": "^3.1.0",
+    "eslint": "^8.39.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.0"
+  }
+}
